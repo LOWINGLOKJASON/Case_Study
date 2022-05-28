@@ -579,4 +579,3 @@ _Casual riders can have a free or discounted trial on membership for a certain p
 - for instance, comment, like, subscribe and share the company’s social media pages and acquire the free or discounted trial
 - win-win situation: casual riders can enjoy the reward whereas the company can have the advertisement with a lower operating cost
 - hosting members-only activities can also be an incentive for casual riders joining the membership 
-
