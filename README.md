@@ -422,23 +422,83 @@ _Average duration by rider type_
 
 `counts <- aggregate(all_trips_v2$ride_length ~ all_trips_v2$member_casual + all_trips_v2$day_of_week, FUN = mean)`
 
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
 
-	all_trips_v2$member_casual	all_trips_v2$day_of_week	all_trips_v2$ride_length
-1	casual	Sunday	3581.405388
-2	member	Sunday	919.9746161
-3	casual	Monday	3372.286923
-4	member	Monday	842.5725694
-5	casual	Tuesday	3596.359949
-6	member	Tuesday	826.142747
-7	casual	Wednesday	3718.661897
-8	member	Wednesday	823.9996442
-9	casual	Thursday	3682.984671
-10	member	Thursday	823.9278033
-11	casual	Friday	3773.835112
-12	member	Friday	824.5305064
-13	casual	Saturday	3331.913841
-14	member	Saturday	968.933723
-![image](https://user-images.githubusercontent.com/100983196/170843397-68dd1460-5ec7-4424-acd9-f6740c7710fe.png)
+<head>
+
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link id=Main-File rel=Main-File
+href="file:///C:/Users/USER/AppData/Local/Temp/msohtmlclip1/01/clip.htm">
+<link rel=File-List
+href="file:///C:/Users/USER/AppData/Local/Temp/msohtmlclip1/01/clip_filelist.xml">
+
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+td
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+-->
+
+</head>
+
+<body link="#0563C1" vlink="#954F72">
+
+
+
+  | all_trips_v2$member_casual | all_trips_v2$day_of_week | all_trips_v2$ride_length
+-- | -- | -- | --
+1 | casual | Sunday | 3581.405
+2 | member | Sunday | 919.9746
+3 | casual | Monday | 3372.287
+4 | member | Monday | 842.5726
+5 | casual | Tuesday | 3596.36
+6 | member | Tuesday | 826.1427
+7 | casual | Wednesday | 3718.662
+8 | member | Wednesday | 823.9996
+9 | casual | Thursday | 3682.985
+10 | member | Thursday | 823.9278
+11 | casual | Friday | 3773.835
+12 | member | Friday | 824.5305
+13 | casual | Saturday | 3331.914
+14 | member | Saturday | 968.9337
+
+
+
+</body>
+
+</html>
 
 
 ```
