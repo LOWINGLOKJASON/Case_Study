@@ -422,21 +422,6 @@ _Average duration by rider type_
 
 `counts <- aggregate(all_trips_v2$ride_length ~ all_trips_v2$member_casual + all_trips_v2$day_of_week, FUN = mean)`
 
-	all_trips_v2$member_casual	all_trips_v2$day_of_week	all_trips_v2$ride_length
-1	casual	Sunday	3581.405388
-2	member	Sunday	919.9746161
-3	casual	Monday	3372.286923
-4	member	Monday	842.5725694
-5	casual	Tuesday	3596.359949
-6	member	Tuesday	826.142747
-7	casual	Wednesday	3718.661897
-8	member	Wednesday	823.9996442
-9	casual	Thursday	3682.984671
-10	member	Thursday	823.9278033
-11	casual	Friday	3773.835112
-12	member	Friday	824.5305064
-13	casual	Saturday	3331.913841
-14	member	Saturday	968.933723
 ![image](https://user-images.githubusercontent.com/100983196/170843566-e7d9250b-c116-4e3b-ad37-576ef8250adc.png)
 
 ```
