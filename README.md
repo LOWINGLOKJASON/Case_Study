@@ -4,7 +4,7 @@
 
 Author: Jason LO
 
-Date: 29 May, 2022
+Date: 29 May 2022
 
 **Introduction**
 
