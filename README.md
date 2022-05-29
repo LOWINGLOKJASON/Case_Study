@@ -2,6 +2,9 @@
 
 ![Bike](https://user-images.githubusercontent.com/100983196/170842811-3ee7c378-f742-45a8-bc41-8fd709989e9f.png)
 
+Author: Jason LO
+Date: 29 May, 2022
+
 **Introduction**
 
 This is one of the case studies in the [Google Data Analytics - Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292845&device=c&keyword=google%20certification%20data%20analytics&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840621&hide_mobile_promo&gclid=CjwKCAjwkMeUBhBuEiwA4hpqELQ0rcYSB6l69SJQR8Yqi9xMsMrAEYQ1-5Ja5TFIEhEIaTlMnmNERhoC8L8QAvD_BwE).
